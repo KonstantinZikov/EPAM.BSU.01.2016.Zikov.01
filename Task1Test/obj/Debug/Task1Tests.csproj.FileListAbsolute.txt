@@ -1,0 +1,8 @@
+D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task1Test\bin\Debug\Task1Test.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task1Test\bin\Debug\Task1Test.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task1Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task1Test\bin\Debug\Task1.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task1Test\bin\Debug\Task1.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task1Test\obj\Debug\Task1Tests.csprojResolveAssemblyReference.cache
+D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task1Test\obj\Debug\Task1Test.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task1Test\obj\Debug\Task1Test.pdb
