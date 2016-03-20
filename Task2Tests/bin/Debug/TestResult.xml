@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task2Tests\bin\Debug\Task2Tests.dll" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-03-20" time="17:13:20">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8662" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="CORTANASUCKS" user="Konstantin" user-domain="CortanaSucks" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task2Tests\bin\Debug\Task2Tests.dll" executed="True" result="Success" success="True" time="0.015" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Task2Tests" executed="True" result="Success" success="True" time="0.014" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="MatrixLineSortsTests" executed="True" result="Success" success="True" time="0.013" asserts="0">
+            <results>
+              <test-case name="Task2Tests.MatrixLineSortsTests.Sort_MaxAbsComparerInAscedingOrder_SortedResult" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+              <test-case name="Task2Tests.MatrixLineSortsTests.Sort_MaxAbsComparerInDescedingOrder_SortedResult" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+              <test-case name="Task2Tests.MatrixLineSortsTests.Sort_MaxSumComparerInAscedingOrder_SortedResult" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+              <test-case name="Task2Tests.MatrixLineSortsTests.Sort_MaxSumComparerInDecedingOrder_SortedResult" executed="True" result="Success" success="True" time="0.001" asserts="4" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1005]D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task2Tests\bin\Debug\Task2Tests.dll</TopNode>
+  <SelectedNode>[0-1002]Task2Tests.MatrixLineSortsTests.Sort_MaxAbsComparerInDescedingOrder_SortedResult</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1005]D:\Sources\EPAM.BSU.01.2016.Zikov.01\Task2Tests\bin\Debug\Task2Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1006]Task2Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]Task2Tests.MatrixLineSortsTests" Expanded="true" />
+  </Nodes>
+</VisualState>
