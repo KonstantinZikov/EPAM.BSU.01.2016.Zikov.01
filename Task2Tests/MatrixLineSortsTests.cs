@@ -5,7 +5,7 @@ namespace Task2Tests
 {
     class MaxAbsComparer : MatrixLineComparer
     {
-        public override int CompareFunction(int[] line)
+        protected override int CompareFunction(int[] line)
         {
             int result = 0;
             foreach(var element in line)
@@ -21,7 +21,7 @@ namespace Task2Tests
 
     class MaxSumComparer : MatrixLineComparer
     {
-        public override int CompareFunction(int[] line)
+        protected override int CompareFunction(int[] line)
         {
             int result = 0;
             foreach (var element in line)

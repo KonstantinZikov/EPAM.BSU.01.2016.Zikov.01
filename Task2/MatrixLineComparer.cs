@@ -13,6 +13,6 @@ namespace Task2
             return CompareFunction(firstLine) - CompareFunction(secondLine);
         }
 
-        public abstract int CompareFunction(int[] line);
+        protected abstract int CompareFunction(int[] line);
     }
 }
